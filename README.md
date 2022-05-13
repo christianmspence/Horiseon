@@ -8,7 +8,7 @@ A website that offers online marketing services.
 * CSS
 
 ## Website
-https://christianmspence.github.io/module-1-challenge/
+https://christianmspence.github.io/Horiseon/
 
 ## Screen Shot
 <img width="1440" alt="Screen Shot 2022-05-06 at 12 26 52 PM" src="https://user-images.githubusercontent.com/103942566/167173887-983ddeb0-9cdb-40ac-9726-5bd661bcbb68.png">
